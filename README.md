@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rexmainstream
-- 👀 I’m interested in web design, specifically javascript and php.
-- 🌱 I’m currently learning react and databased.
+- 👀 I’m interested in web design, specifically javascript and backend platforms such as mongoDB.
+- 🌱 I’m currently learning reactjs and nodejs.
 - 💞️ I’m looking to collaborate on future projects. 
 - 📫 How to reach me, contact me on discord at rex_mainstream#3406
